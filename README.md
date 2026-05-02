@@ -1,13 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hola+soy+Juan+Manuel;T%C3%A9cnico+en+Programaci%C3%B3n)
 
 # 💫 Sobre mí:
-Soy un desarrollador en formación constante, actualmente cursando el último tramo de la **Tecnicatura Universitaria en Programación** en la UTN FRCU. 
-- 🌱 Actualmente me estoy formando y profundizando en el estudio de **Java (POO)** y **Node.js** para el desarrollo de soluciones escalables.
-- 👯 Cuento con experiencia en el manejo de **MongoDB** y bases de datos relacionales.
+Soy un desarrollador en formación constante, actualmente cursando el último tramo de la **Tecnicatura Universitaria en Programación** en la UTN FRCU.
+- 🌱 Me especializo en **Java (POO)** y **Node.js** para el desarrollo de soluciones escalables.
+- 👯 Cuento con experiencia en el manejo de **MongoDB Atlas** y bases de datos relacionales.
 - 💬 Tengo una sólida base en **Estadística Descriptiva y Probabilidad** aplicada al análisis de datos.
 - 📫 Puedes contactarme en: **jmtoscanini@gmail.com**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/juan-toscanini-942115204/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-toscanini-942115204/) 
 
 # 💻 Tecnologías:
 
@@ -27,11 +27,7 @@ Soy un desarrollador en formación constante, actualmente cursando el último tr
 
 ### 🎓 Formación y Certificados
 *   **Tecnicatura Universitaria en Programación** - UTN FRCU (En curso)
-*   [Carrera de Desarrollo Web](https://pub.coderhouse.com/legacy-certificates/65367a47698dad612b7c49a9?lang=es) - Coderhouse
-*   [Desarrollo Web](https://pub.coderhouse.com/legacy-certificates/643af137349772000247fb82?lang=es) - Coderhouse
-*   [JavaScript](https://pub.coderhouse.com/legacy-certificates/64dabdde5e2932973da738e1?lang=es) - Coderhouse
-*   [React JS](https://pub.coderhouse.com/legacy-certificates/65367a47698dad176d7c499d?lang=es) - Coderhouse
-
----
-
-<img align="left" alt="Juan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true" />
+*   <a href="https://pub.coderhouse.com/legacy-certificates/65367a47698dad612b7c49a9?lang=es" target="_blank">Carrera de Desarrollo Web</a> - Coderhouse
+*   <a href="https://pub.coderhouse.com/legacy-certificates/643af137349772000247fb82?lang=es" target="_blank">Desarrollo Web</a> - Coderhouse
+*   <a href="https://pub.coderhouse.com/legacy-certificates/64dabdde5e2932973da738e1?lang=es" target="_blank">JavaScript</a> - Coderhouse
+*   <a href="https://pub.coderhouse.com/legacy-certificates/65367a47698dad176d7c499d?lang=es" target="_blank">React JS</a> - Coderhouse

@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hola+soy+Juan+Manuel;T%C3%A9cnico+en+Programaci%C3%B3n)
 
-# 💫 Sobre mí:
+# Sobre mí:
 Soy un desarrollador en formación constante, actualmente cursando el último tramo de la **Tecnicatura Universitaria en Programación** en la UTN FRCU.
 - 🌱 Me especializo en **Java (POO)** y **Node.js** para el desarrollo de soluciones escalables.
 - 👯 Cuento con experiencia en el manejo de **MongoDB Atlas** y bases de datos relacionales.
